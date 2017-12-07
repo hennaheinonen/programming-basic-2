@@ -1,0 +1,28 @@
+﻿using System;
+
+namespace Conditionalstatement
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+            //Define instructions
+            Console.WriteLine("Ohjemlma asettaa luvut suuruusjärjestykseen");
+
+            Console.WriteLine("Syötä Numero 1:");
+            string numero1 = Console.Readline();
+            int numx = int.Parse (numero1);
+
+            Console.WriteLine("Syötä Numero 2:");
+            string numero2 = Console.Readline();
+            int numy = int.Parse (numero2);
+
+            Console.WriteLine("Syötä Numero 3:");
+            string numero3 = Console.Readline();
+            int numz = int.Parse (numero3);
+
+            Console.Writeline($"numx}, {numy}, {numz}");
+            Console.ReadKey();
+        } 
+     }
+}       

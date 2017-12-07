@@ -1,0 +1,5 @@
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/Conditional-statement/bin/Debug/Conditional-statement.exe
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/Conditional-statement/bin/Debug/Conditional-statement.pdb
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/Conditional-statement/obj/x86/Debug/Conditional-statement.csproj.CoreCompileInputs.cache
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/Conditional-statement/obj/x86/Debug/Conditional-statement.exe
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/Conditional-statement/obj/x86/Debug/Conditional-statement.pdb

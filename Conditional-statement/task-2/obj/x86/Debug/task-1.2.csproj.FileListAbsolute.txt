@@ -1,0 +1,5 @@
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/task-2/bin/Debug/task-2.exe
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/task-2/bin/Debug/task-2.pdb
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/task-2/obj/x86/Debug/task-1.2.csproj.CoreCompileInputs.cache
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/task-2/obj/x86/Debug/task-2.exe
+/Users/hennaheinonen/Library/Mobile Documents/com~apple~CloudDocs/programming-basics/Conditional-statement/task-2/obj/x86/Debug/task-2.pdb
